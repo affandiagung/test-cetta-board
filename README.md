@@ -28,9 +28,9 @@ $ mv .env.copy .env
 $ npm run dev
 $ php artisan serve
 
-
-
 # production mode
 $ npm run build
 $ php artisan serve
 ```
+
+Selanjutkan jalankab browser buka http://127.0.0.1:8000 atau localhost:8000
